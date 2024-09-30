@@ -11,7 +11,7 @@ Um **chatbot** é um tipo de software que interage com usuários através de con
 
 **Telegram** é uma plataforma de mensagens instantâneas *freeware* (distribuído gratuitamente) e, em sua maioria, *open source*. É muito popular entre desenvolvedores por ser pioneiro na implantação da funcionalidade de criação de **chatbots**, que, por sua vez, permitem a criação de diversas automações.
 
-###**Arquitetura**
+### **Arquitetura**
 
 Uma atividade analítica de interesse é a de realizar a análise exploratória de dados enviadas a um **chatbot** para responder perguntas como:
 
